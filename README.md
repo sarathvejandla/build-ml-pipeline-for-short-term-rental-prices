@@ -596,6 +596,10 @@ If you see the any error while running the command:
 
 `https://wandb.ai/sarathy6it-greenspace/nyc_airbnb?nw=nwusersarathy6it`
 
+### Github URL
+
+`https://github.com/sarathvejandla/build-ml-pipeline-for-short-term-rental-prices`
+
 Please, make sure all steps are using **the same** python version and that you have **conda installed**. Additionally, *mlflow* and *wandb* packages are crucial and should have the same version.
 
 
